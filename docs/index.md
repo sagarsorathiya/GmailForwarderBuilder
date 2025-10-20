@@ -3,7 +3,7 @@
 Welcome! This page provides the essentials for downloading and deploying the Gmail → Telegram/WhatsApp Script Builder.
 
 ## Download
-- [Download the latest build](../GmailForwarderBuilder.exe) (Windows 64-bit)
+- [Download the latest build](https://github.com/sagarsorathiya/GmailForwarderBuilder/blob/main/GmailForwarderBuilder.exe) (Windows 64-bit)
 
 ## What It Does
 This desktop helper generates Google Apps Script code that forwards filtered Gmail threads into Telegram or WhatsApp Cloud API conversations. Highlights include:
